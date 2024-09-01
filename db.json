@@ -1,0 +1,251 @@
+{
+  "products": [
+    {
+      "name": "Activ mens ACTIV MEN CREW-NECK SWEATSHIRT Sweatshirt",
+      "price": "500",
+      "img": "https://m.media-amazon.com/images/I/41hn+kIAZgL._AC_.jpg",
+      "sort": "Sweatshirt",
+      "label": {
+        "name": "sale",
+        "color": "black",
+        "background": "green"
+      },
+      "id": 1
+    },
+    {
+      "name": "White Pockets Plain Slim Fit Jeans Pants",
+      "price": "290",
+      "img": "https://m.media-amazon.com/images/I/41UNLFk9IxL._AC_SY679_.jpg",
+      "sort": "Pants",
+      "label": {
+        "name": "sale",
+        "color": "black",
+        "background": "white"
+      },
+      "id": 2
+    },
+    {
+      "id": 3,
+      "img": "https://m.media-amazon.com/images/I/71fllpmQnfL._AC_SX679_.jpg",
+      "name": "naruto hoodie49",
+      "price": 390,
+      "sort": "Hoodie",
+      "label": {
+        "name": "sale",
+        "color": "black",
+        "background": "white"
+      }
+    },
+    {
+      "id": 4,
+      "img": "https://m.media-amazon.com/images/I/519pXr8k7cL._AC_SX679_.jpg",
+      "name": "Copper Bomb Jacket",
+      "price": 650,
+      "sort": "Jacket",
+      "label": {
+        "name": "new",
+        "color": "white",
+        "background": "black"
+      }
+    },
+    {
+      "id": 5,
+      "img": "https://m.media-amazon.com/images/I/41cmdWj-DUL._AC_.jpg",
+      "name": "Focus Waterproof Beige Jacket",
+      "price": 500,
+      "sort": "Jacket",
+      "label": {
+        "name": "sale",
+        "color": "black",
+        "background": "white"
+      }
+    },
+    {
+      "name": "Black Clover hoodie1",
+      "price": 399,
+      "img": "https://m.media-amazon.com/images/I/61ZcbR2r5FL._AC_SX569_.jpg",
+      "sort": "Hoodie",
+      "label": {
+        "name": null,
+        "color": null,
+        "background": null
+      },
+      "id": 6
+    },
+    {
+      "id": 7,
+      "img": "https://m.media-amazon.com/images/I/41ZWgHnMrzS._AC_SX679_.jpg",
+      "name": "Maestro Uncle Packet-142",
+      "price": 105,
+      "sort": "Socks",
+      "label": {
+        "name": "new",
+        "color": "white",
+        "background": "black"
+      }
+    },
+    {
+      "id": 8,
+      "img": "https://m.media-amazon.com/images/I/61-sJ1uucQL._AC_SX679_.jpg",
+      "name": "Gadardine Tough Fur Lined Youth Jacket",
+      "price": 599,
+      "sort": "Jacket",
+      "label": {
+        "name": "sale",
+        "color": "black",
+        "background": "white"
+      }
+    },
+    {
+      "id": 9,
+      "img": "https://m.media-amazon.com/images/I/61UbGqL-DdL._AC_SX679_.jpg",
+      "name": "Bella Cotton BCS68 Drawstring Short",
+      "price": 170,
+      "sort": "Short",
+      "label": {
+        "name": "new",
+        "color": "white",
+        "background": "black"
+      }
+    },
+    {
+      "id": 10,
+      "img": "https://m.media-amazon.com/images/I/41Q8F1Y0IML._AC_.jpg",
+      "name": "TIA Casual Zip Fur Sleeve Hooded Jacket with Suede",
+      "price": 280,
+      "sort": "Jacket",
+      "label": {
+        "name": null,
+        "color": null,
+        "background": null
+      }
+    },
+    {
+      "id": 11,
+      "img": "https://m.media-amazon.com/images/I/41LaIWDR0kL._AC_.jpg",
+      "name": "jacket lined with fur",
+      "price": 1100,
+      "sort": "Jacket",
+      "label": {
+        "name": "new",
+        "color": "white",
+        "background": "black"
+      }
+    },
+    {
+      "id": 12,
+      "img": "https://m.media-amazon.com/images/I/31EFzZ6XRNL._AC_.jpg",
+      "name": "Kitten Kids Boys Waterproof Zipper Hooded Jacket",
+      "price": 309,
+      "sort": "Jacket",
+      "label": {
+        "name": "sale",
+        "color": "black",
+        "background": "white"
+      }
+    },
+    {
+      "id": 13,
+      "img": "https://m.media-amazon.com/images/I/51pjcpQY0AL._AC_SY500_.jpg",
+      "name": "Italiano Suede half boot",
+      "price": 375,
+      "sort": "Shoes",
+      "label": {
+        "name": null,
+        "color": null,
+        "background": null
+      }
+    },
+    {
+      "name": "BANGE Sling Bag",
+      "price": "10",
+      "img": "https://m.media-amazon.com/images/I/61iRSdKT-jL._AC_SX679_.jpg",
+      "sort": "Bag",
+      "label": {
+        "name": "sale",
+        "color": "black",
+        "background": "white"
+      },
+      "id": 14
+    },
+    {
+      "name": "Cargo Trousers",
+      "price": "450",
+      "img": "https://static.bershka.net/4/photos2/2024/V/0/2/p/0479/665/711/a472562c3c59a5970aca8b9e3156b1c4-0479665711_2_24_0.jpg?imwidth=850&impolicy=bershka-itxmedium",
+      "sort": "Trousers",
+      "label": {
+        "name": "Noon",
+        "color": "olive green",
+        "background": "olive green"
+      },
+      "id": 15
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Hishaam",
+      "lastName": "Khalil",
+      "userName": "luka2023",
+      "email": "heshamkhalil1988@gmail.com",
+      "password": "123456",
+      "city": "giza",
+      "gender": "male",
+      "phoneNumber": "01119554463",
+      "role": "admin",
+      "image": "https://scontent.fcai22-1.fna.fbcdn.net/v/t1.18169-9/11041678_625771720886702_4511065195015088202_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=2c4854&_nc_eui2=AeH41TkP10ZEONJrx1m-638lnJSEZl_PRKWclIRmX89EpQEstgOVKkv4tgdc3GnBi7oCrNuf30xBf6chgLTjgdLd&_nc_ohc=Oss1rAEQA2MAX-GRP3P&_nc_oc=AQllOqQP0D-yq3MZhRnMVRK6ZXVXSdEfgo2miYwh0r7z7ZAwFGv8FNFsM9cu2Z4xTbU&_nc_ht=scontent.fcai22-1.fna&oh=00_AfAlQBgfCQRVKucPTObC0e0zOjd2B8jI2X37TOGcZ1nScg&oe=63FCFBB5"
+    },
+    {
+      "id": 2,
+      "firstName": "Hishaam",
+      "lastName": "Khalil",
+      "userName": "luka2023",
+      "email": "heshamkhalil1988@gmail.com",
+      "password": "123456",
+      "city": "giza",
+      "gender": "male",
+      "phoneNumber": "01119554463",
+      "role": "admin",
+      "image": "https://scontent.fcai22-1.fna.fbcdn.net/v/t1.18169-9/11041678_625771720886702_4511065195015088202_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=2c4854&_nc_eui2=AeH41TkP10ZEONJrx1m-638lnJSEZl_PRKWclIRmX89EpQEstgOVKkv4tgdc3GnBi7oCrNuf30xBf6chgLTjgdLd&_nc_ohc=Oss1rAEQA2MAX-GRP3P&_nc_oc=AQllOqQP0D-yq3MZhRnMVRK6ZXVXSdEfgo2miYwh0r7z7ZAwFGv8FNFsM9cu2Z4xTbU&_nc_ht=scontent.fcai22-1.fna&oh=00_AfAlQBgfCQRVKucPTObC0e0zOjd2B8jI2X37TOGcZ1nScg&oe=63FCFBB5"
+    },
+    {
+      "id": 3,
+      "firstName": "Gisela",
+      "lastName": "David",
+      "userName": "mevewyvoc",
+      "email": "nywekexe@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "city": "Ipsam sed nostrum al",
+      "gender": "male",
+      "phoneNumber": "+1 (414) 141-2316",
+      "role": "member",
+      "image": "Qui voluptate expedi"
+    },
+    {
+      "id": 4,
+      "firstName": "Amy",
+      "lastName": "Rivers",
+      "userName": "luduj",
+      "email": "zumygod@mailinator.com",
+      "password": "test@123",
+      "city": "Fuga Vel consectetu",
+      "gender": "male",
+      "phoneNumber": "+1 (893) 388-9801",
+      "role": "member",
+      "image": "Dicta quia nemo eius"
+    },
+    {
+      "firstName": "Ahmed",
+      "lastName": "Alaa",
+      "userName": "ahmedalaa",
+      "email": "ahmedalaa@gmail.com",
+      "password": "123456",
+      "role": "admin",
+      "gender": "male",
+      "city": "maadi",
+      "image": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
+      "phoneNumber": "01111416097",
+      "id": 5
+    }
+  ]
+}
